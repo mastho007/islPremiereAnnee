@@ -1,0 +1,10 @@
+MySql:
+https://dev.mysql.com/doc/refman/8.0/en/introduction.html
+
+
+reference Microsoft sql server :
+https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17
+
+
+
+

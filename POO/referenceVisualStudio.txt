@@ -1,0 +1,6 @@
+pour c++:
+https://learn.microsoft.com/fr-fr/cpp/cpp/?view=msvc-170
+
+
+pour c#:
+https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/
